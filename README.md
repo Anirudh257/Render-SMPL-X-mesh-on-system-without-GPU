@@ -36,4 +36,4 @@ folder2
     
     to the path where you want to store the mesh-overlayed image.
 
-Sample [image](Render-SMPL-X-mesh-on-system-without-GPU/sample.jpg), [mesh](Render-SMPL-X-mesh-on-system-without-GPU/000.obj) and corresponding [overlayed image](Render-SMPL-X-mesh-on-system-without-GPU/overlay.png) can also be found.
+Sample [image](sample.jpg), [mesh](000.obj) and corresponding [overlayed image](overlay.png) can also be found.
